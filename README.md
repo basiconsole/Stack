@@ -21,3 +21,6 @@
 ----------------------------------------------------------------------------------------------------------------------
 * Day 7 unitypackage : https://mega.nz/file/yDxwzKBA#s8NjTl8wnnTKgt78OKkZtW64pIhsB9RKmWsUAMmoO-4
 * Day 7 document : https://principled-quesadilla-634.notion.site/Stack-7-13c50cbdf22e4bd29ab163b2b9d6775a
+----------------------------------------------------------------------------------------------------------------------
+* Day 8 unitypackage : https://mega.nz/file/7a4S0RDR#-JJG8hOl6o_mr-1ZNa8_gSjV9pvvkhFg6xxcM3t-6ig
+* Day 8 document : https://principled-quesadilla-634.notion.site/Stack-8-5c734937943c4197ab174ffeaf01e4a4
